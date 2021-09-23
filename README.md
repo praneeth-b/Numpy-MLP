@@ -1,6 +1,6 @@
 # Numpy-MLP
 
-A complete Numpy based implementation of the Multi Layered Perceptron. 
+**A complete Numpy based implementation of the Multi Layered Perceptron.** 
 
 - Dense layers implemented in numpy and are configurable by the user.
 - ReLU, sigmoid and softmax activation functions implemented.
