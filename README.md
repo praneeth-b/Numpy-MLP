@@ -3,7 +3,8 @@
 A complete Numpy based implementation of the Multi Layered Perceptron. 
 
 - Dense layers implemented in numpy and are configurable by the user.
-- sigmoid and softmax activation functions implemented.
+- ReLU, sigmoid and softmax activation functions implemented.
+- MSE and cross-entropy loss functions.
 - Stochastic Gradient descent optimizer 
 - Configurable parameters such as batch-size and Learning rate
 
